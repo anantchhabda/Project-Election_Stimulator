@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Candidate
+comment0.text=\n\ Represents\ a\ candidate\ in\ the\ Antarctica\ election\ process.\n\n\ @author\ Lyndon\ While\n\ @version\ 1.0\ 2020\n
+comment1.params=name
+comment1.target=Candidate(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Candidate.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Returns\ the\ candidate's\ name.\n
+comment3.params=
+comment3.target=int\ getNoOfVotes()
+comment3.text=\n\ Returns\ the\ number\ of\ votes\ obtained\ by\ the\ candidate.\n
+comment4.params=
+comment4.target=double\ getNoOfWins()
+comment4.text=\n\ Returns\ the\ number\ of\ wins\ obtained\ by\ the\ candidate.\n
+comment5.params=n
+comment5.target=void\ addToCount(int)
+comment5.text=\n\ Adds\ n\ votes\ to\ the\ candidate.\ \n
+comment6.params=n
+comment6.target=void\ addToWins(double)
+comment6.text=\n\ Adds\ n\ wins\ to\ the\ candidate.\ \n
+comment7.params=
+comment7.target=java.lang.String\ getStanding()
+comment7.text=\n\ Returns\ a\ string\ reporting\ the\ candidate's\ result,\ \n\ rounding\ the\ number\ of\ wins\ to\ the\ nearest\ integer.\ \n\ See\ the\ sample\ output\ files\ for\ the\ required\ format.\ \n
+numComments=8
